@@ -1,7 +1,7 @@
 # SC1015_MiniProject
 This is SC1015 Mini Project done by B135,Group 8
 Our project is on predicting rental price of a AirBnb listing in Singapore based on its attributes
-
+{"a":5,"d":"B","h":"www.canva.com","c":"DAFgqB5T2A0","i":"pzkVjpR6UWtwhHIB_EASvw","b":1682109567374,"A?":"A","A":{"C":"#ffffff"},"B":1920,"C":1080}
 Order of codes/files:
 1. Cleaning https://github.com/wanmis/SC1015_MiniProject/blob/main/Cleaning.ipynb
 2. EDA https://github.com/wanmis/SC1015_MiniProject/blob/main/EDA.ipynb
