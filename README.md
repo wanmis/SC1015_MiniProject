@@ -1,7 +1,7 @@
 # SC1015_MiniProject
 ## About
 This is SC1015 Mini Project done by B135,Group 8.
-Our project is on predicting rental price of a AirBnb listing in Singapore based on its attributes
+<br>Our project is on predicting rental price of a AirBnb listing in Singapore based on its attributes.
 <br><img width="720" alt="Image" src="https://user-images.githubusercontent.com/128026488/233777968-d10055f9-a304-4d1a-bf8d-0a483ffd899f.png">
 
 Order of codes/files:
@@ -14,13 +14,13 @@ Order of codes/files:
 8. [Slides](https://github.com/wanmis/SC1015_MiniProject/blob/main/SC1015%20ProjectSlides.pdf)
 
 ## Background Info:
-Airbnb has become an increasingly popular choice for travelers around the world
+Airbnb has become an increasingly popular choice for travelers around the world.
 It can be challenging to determine the optimal price for a listing, especially given the many variables at play.
 Price of a listing is determined by a number of factors, such as the property's location, the amenities provided, and even the time of year. 
 Moreover, these factors interact with each other in complex ways, making it difficult to predict the best price for a listing.
 
 ## Data Source: 
-- https://www.kaggle.com/datasets/jojoker/singapore-airbnb
+- [Singapore AirBnb 2019](https://www.kaggle.com/datasets/jojoker/singapore-airbnb)
 
 ## Problem Definition:
 - Can we predict the rental price of a listing with its attributes?
