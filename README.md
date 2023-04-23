@@ -26,10 +26,19 @@ Moreover, these factors interact with each other in complex ways, making it diff
 - Which model among the ones we selected would be the best to predict it?
 
 ## Model Used:
-- Linear Regression
+- Multi Variate Linear Regression
 - K-Nearest Neighbours
 - Random Forest Regression
 - XGBoost
+
+## Conclusion
+- Random Forest Regression is the best amongst the other from the errors
+- Application of new cleaning and regression tools as well as hypertuning
+- Able to predict price from regression techinques used in this project
+
+## Data Insights
+- Explore other regression means such as Support Vector Machine
+- Tap in to other relevant data attributes in context of Singapore's housing to strengthen prediction accuracy 
 
 ## Contributors
 - Tong Shao Wen
