@@ -41,8 +41,8 @@ Moreover, these factors interact with each other in complex ways, making it diff
 - Tap in to other relevant data attributes in context of Singapore's housing to strengthen prediction accuracy 
 
 ## Contributors
-- Tong Shao Wen
-- Wan Muhammad Ismail
+- Tong Shao Wen (Data Cleaning, Data Exploring & Visualization, Random Forest, KNN)
+- Wan Muhammad Ismail (Data Cleaning, Data Exploring & Visualization, Linear Regression, XGBoost)
 
 ## References
 - https://www.analyticsvidhya.com/blog/2022/11/hyperparameter-tuning-using-randomized-search/
