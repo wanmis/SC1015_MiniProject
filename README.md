@@ -6,11 +6,12 @@ Our project is on predicting rental price of a AirBnb listing in Singapore based
 
 Order of codes/files:
 1. [Cleaning](https://github.com/wanmis/SC1015_MiniProject/blob/main/Cleaning.ipynb)
-2. [EDA](https://github.com/wanmis/SC1015_MiniProject/blob/main/EDA.ipynb)
-3. [Linear Regression](https://github.com/wanmis/SC1015_MiniProject/blob/main/Linear%20Regression.ipynb)
-4. [K-Nearest Neighbours](https://github.com/wanmis/SC1015_MiniProject/blob/main/KNN.ipynb)
-5. [Random Forest Regression](https://github.com/wanmis/SC1015_MiniProject/blob/main/Random%20forest%20Regression.ipynb)
-6. [XGBoost](https://github.com/wanmis/SC1015_MiniProject/blob/main/XGBoost.ipynb)
+3. [EDA](https://github.com/wanmis/SC1015_MiniProject/blob/main/EDA.ipynb)
+4. [Linear Regression](https://github.com/wanmis/SC1015_MiniProject/blob/main/Linear%20Regression.ipynb)
+5. [K-Nearest Neighbours](https://github.com/wanmis/SC1015_MiniProject/blob/main/KNN.ipynb)
+6. [Random Forest Regression](https://github.com/wanmis/SC1015_MiniProject/blob/main/Random%20forest%20Regression.ipynb)
+7. [XGBoost](https://github.com/wanmis/SC1015_MiniProject/blob/main/XGBoost.ipynb)
+8. [Slides](https://github.com/wanmis/SC1015_MiniProject/blob/main/SC1015%20ProjectSlides.pdf)
 
 ## Background Info:
 Airbnb has become an increasingly popular choice for travelers around the world
